@@ -1,0 +1,12 @@
+# Claves y contraseñas (nunca subir)
+.env
+
+# Librerías que se instalan solas
+node_modules/
+
+# Carpetas que genera Astro
+dist/
+.astro/
+
+# Configuración del editor
+.vscode/
